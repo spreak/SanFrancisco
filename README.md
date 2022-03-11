@@ -1,5 +1,12 @@
-# San Francisco font from Apple
-
+# Famous SanFrancisco font from Apple
 Check LICENSE for licensing.
 
-Use only if you own a macOS or iPhone device.
+- Mono
+- Compact
+- Pro
+  - Display
+  - Rounded
+  - Text
+  - Variable
+
+I do not own any license or copyrights for SanFrancisco fonts from Apple.
