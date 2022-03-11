@@ -3,6 +3,10 @@ Check LICENSE for licensing.
 
 - Mono
 - Compact
+  - Display
+  - Rounded
+  - Text
+  - Variable
 - Pro
   - Display
   - Rounded
