@@ -1,4 +1,4 @@
-# Famous SanFrancisco font from Apple
+# Famous Apple's SanFrancisco Font
 Check LICENSE for licensing.
 
 - Mono
